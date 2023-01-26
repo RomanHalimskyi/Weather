@@ -1,4 +1,4 @@
-Weather applicatin was created using: Volley, Picasso, LiveData, Fragment, RecyclerView for data displaying
+Weather applicatin was created with using: Volley, Picasso, LiveData, Fragment, RecyclerView for data displaying
 
 
 
